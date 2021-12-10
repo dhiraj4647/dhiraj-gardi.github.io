@@ -270,7 +270,7 @@ https://templatemo.com/tm-567-nomad-force
                 </div>
             </section>
 
-            <section class=" contact section-padding" id="contact">
+            <section class=" contact section-padding" id="contact" >
                 <div class="container">
                     <div class="row">
                         
@@ -278,7 +278,7 @@ https://templatemo.com/tm-567-nomad-force
 
                             <h2 class="mb-4 text-center" data-aos="fade-up">Contact Me</h2>
 
-                            <form action="#" method="post" class="contact-form" role="form" data-aos="fade-up">
+                            <form action="contact.php" method="post" class="contact-form" role="form" data-aos="fade-up">
 
                                 <div class="row">
                                     
